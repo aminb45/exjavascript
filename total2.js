@@ -9,3 +9,6 @@ let total_notebook = quantity_notebook * price_notebook;
 let total = total_pen + total_notebook;
 
 console.log(total);
+let money  = 20;
+let rest = money - total;
+console.log("resto: " + rest + " euro");
